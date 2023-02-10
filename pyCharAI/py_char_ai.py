@@ -8,7 +8,7 @@ accept_button = (By.ID, "#AcceptButton")
 send_button = (By.XPATH, "")
 
 
-class PyCharacterAI:
+class PyCharAI:
     def __init__(self, url, cookies):
         self.driver = uc.Chrome()
         self.__url = url
