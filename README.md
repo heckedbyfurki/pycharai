@@ -5,7 +5,7 @@ Usage
 ```python
 # Must be you character_ai account credentials
 email = 'example@gmail.com'
-passwd = 'Passw0rd!"
+passwd = 'Passw0rd!'
 char_id = '6HhWfeDjetnxESEcThlBQtEUo0O8YHcXyHqCgN7b2hY'
 # https://beta.character.ai/chat?char=6HhWfeDjetnxESEcThlBQtEUo0O8YHcXyHqCgN7b2hY
 
