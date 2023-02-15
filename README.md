@@ -3,7 +3,7 @@ CharacterAI wrapper for python.
 
 Usage
 ```python
-# Must be you character_ai account credentials
+# Must be you character.ai account credentials
 email = 'example@gmail.com'
 passwd = 'Passw0rd!'
 char_id = '6HhWfeDjetnxESEcThlBQtEUo0O8YHcXyHqCgN7b2hY'
